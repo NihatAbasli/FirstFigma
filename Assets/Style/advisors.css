@@ -1,0 +1,105 @@
+#advisors {
+  padding: 130px 54px 170px 80px;
+  display: flex;
+  align-items: center;
+}
+
+#advisors .left {
+  padding: 32px 40px;
+  width: 484px;
+  height: 412px;
+  background-color: #ffff;
+  border: 4px solid var(--mainTextBlack);
+  border-radius: 18px;
+}
+
+#advisors .left .profile {
+  display: flex;
+  gap: 16px;
+}
+
+#advisors .left .profile .profile-info {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+#advisors .left .profile .profile-subtitle {
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 100;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  color: #66645e;
+}
+
+#advisors .left .word {
+  margin-top: 24px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+}
+
+#advisors .left .title {
+  display: flex;
+  margin-top: 48px;
+  gap: 100px;
+}
+
+#advisors .left .title .core {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  margin-bottom: 12px;
+  color: #66645e;
+}
+
+#advisors .left .title div p:last-child {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  margin-bottom: 32px;
+}
+
+.Go {
+  width: 404px;
+  height: 56px;
+  border-radius: 16px;
+  border: none;
+  margin-bottom: 32px;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #ffff;
+  background-color: var(--mainTextBlack);
+}
+
+#advisors .right {
+  width: 644px;
+  height: 334px;
+  margin-left: 178px;
+}
+
+#advisors .right img {
+  width: 80px;
+  height: 80px;
+}
+
+#advisors .right .info {
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 64px;
+  margin: 24px 0;
+}
+
+#advisors .right .title {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: -0.02em;
+}

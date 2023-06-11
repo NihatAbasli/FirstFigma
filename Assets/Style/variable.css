@@ -1,0 +1,12 @@
+:root {
+  /* Color */
+  --mainGreenColor: #71a894;
+  --mainGraylight: #f9f9f9;
+  --mainGrayLight2: #e7e7e7;
+
+  --mainTextBlack: #303031;
+
+  /* Font */
+  --fontRoboto: "Roboto", sans-serif;
+  --fontOpensans: "Open Sans", sans-serif;
+}
